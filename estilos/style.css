@@ -40,13 +40,13 @@ section#login {
     transition-timing-function: ease;
 }
 
-section#login > div#formulario h1 {
+div#formulario > h1 {
     text-align: center;
     padding-bottom: 10px;
 }
 
-section#login > div#formulario p {
-    font-size: 13px;
+div#formulario > p {
+    font-size: 0.8em;
 }
 
 section#login > div#imagem {
